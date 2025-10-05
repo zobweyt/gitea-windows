@@ -6,7 +6,7 @@ echo This script should be run with administrator privileges.
 echo Press any key if you are running it as administrator.
 pause
 
-set GITEA_EXE_FILE_URL="https://dl.gitea.com/gitea/1.24.5/gitea-1.24.5-gogit-windows-4.0-amd64.exe"
+set GITEA_EXE_FILE_URL="https://dl.gitea.com/gitea/1.24.6/gitea-1.24.6-gogit-windows-4.0-amd64.exe"
 set GITEA_EXE_FILE_PATH="%cd%\gitea.exe"
 set GITEA_WORK_PATH="%cd%\gitea"
 set GITEA_CONFIG_FILE_PATH="%GITEA_WORK_PATH%\custom\conf\app.ini"
